@@ -2,7 +2,6 @@
     package="com.example.e_commerc_app">
    <application
         android:label="e_commerc_app"
-        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
